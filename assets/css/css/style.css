@@ -1111,3 +1111,16 @@ section {
   }
 }
 
+.btn {
+  width: 200px;
+  background: #eaebf0;
+  border-color: #37b3ed;
+  margin-bottom: 1rem;
+  color: #000000;
+}
+
+.btn:hover {
+  color: #37b3ed;
+  text-decoration: none;
+}
+
